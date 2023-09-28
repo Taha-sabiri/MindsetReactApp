@@ -4,7 +4,7 @@ import './App.css';
 const Footer = () => {
     return(
         <>
-        <div className='w-full flex mt-9 '>
+        <div className='w-full flex mt-9 mb-10 '>
              <div className='w-1/4 text-right '>
                 <h1 className='text-lg font-bold mb-3  '>تماس با ما</h1>
                 <p className='text-sm text-gray-600 mb-2'>ذهنیت برنده   وامروز </p>
